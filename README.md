@@ -33,18 +33,6 @@
 
 </div>
 
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-
-<a href="mailto:xodus2079@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A.svg?style=for-the-badge&logo=Naver&logoColor=white"/></a>
- <a href="https://taetae2023.tistory.com/">
-    <img src="https://img.shields.io/badge/tistory-FD5F07.svg?style=for-the-badge&logo=tistory&logoColor=white"/>
-  </a>
-</div>
-<br>
-
-
 <h2>🕓Past Technologies🕓</h2>
 
 <br>
@@ -82,7 +70,7 @@
 <hr style="border: 5px solid #d3d3d3;">
 
 <h2>📝PortFolio📝</h2>
-
+<!--
 1. Android Studio 로맨스는 웹툰을 타고 앱
 
 2. Unity5 금오공과대학교 AR Tour <br>
@@ -90,6 +78,9 @@ https://github.com/Taetae1123/KitTourAR
 
 3. Flutter 요양원 알리미 앱 <br>
 https://github.com/Taetae1123/care-allimi-front
+
+-->
+
 
 4. Vanilla JS 배달의 민족 웹 <br>
 https://github.com/Taetea1/DelieveryProject
