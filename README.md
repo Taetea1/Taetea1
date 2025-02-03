@@ -33,7 +33,7 @@
 
 </div>
 
-<h2>🕓Past Technologies🕓</h2>
+<h2>🕓Sub Skills🕓</h2>
 
 <br>
 
@@ -68,22 +68,3 @@
 </div>
 
 <hr style="border: 5px solid #d3d3d3;">
-
-<h2>📝PortFolio📝</h2>
-<!--
-1. Android Studio 로맨스는 웹툰을 타고 앱
-
-2. Unity5 금오공과대학교 AR Tour <br>
-https://github.com/Taetae1123/KitTourAR
-
-3. Flutter 요양원 알리미 앱 <br>
-https://github.com/Taetae1123/care-allimi-front
-
--->
-
-
-4. Vanilla JS 배달의 민족 웹 <br>
-https://github.com/Taetea1/DelieveryProject
-
-5. Vanilla JS snuggle 가구 웹 <br>
-https://github.com/Taetea1/MiniShopping-Project
