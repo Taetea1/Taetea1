@@ -8,7 +8,7 @@
 
 <br>
 <hr style="border: 5px solid #d3d3d3;">
-<h2>✨Skills✨</h2>
+<h2>✨ Skills ✨</h2>
 
 <br>
 
@@ -22,18 +22,18 @@
 </div>
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />  
+</div>
+
+
+<h3 align="center">🕓 Version Control 🕓</h3>
+<div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
-<div align="center">
-  
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-</div>
-
-<h2>🕓Sub Skills🕓</h2>
+<h2>:mag_right: Sub Skills :mag_right:</h2>
 
 <br>
 
